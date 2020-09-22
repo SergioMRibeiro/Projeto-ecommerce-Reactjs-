@@ -7,7 +7,6 @@ const Dashboard = () => {
     return (
         <div ativo={false}>
             <h1>Dashboard</h1>
-            <p className="texto">ReactJS</p>
         </div>
     )
 }
