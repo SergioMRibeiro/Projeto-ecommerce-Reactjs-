@@ -3,51 +3,51 @@ Projeto final da disciplina de de react.
 Api documentation: http://residencia-ecommerce.us-east-1.elasticbeanstalk.com/v2/api-docs
 
 ## Tratamento de erros para:
-  * Get []
-  * Head []
-  * Put []
-  * Post []
-  * Delete []
-  * Options []
-  * Patch []
+  * Get [checkbox:unchecked]
+  * Head [checkbox:unchecked]
+  * Put [checkbox:unchecked]
+  * Post [checkbox:unchecked]
+  * Delete [checkbox:unchecked]
+  * Options [checkbox:unchecked]
+  * Patch [checkbox:unchecked]
 
 
 ## Catagora controller:
-  * List categoria []
-  * Add categoria []
-  * Show categoria []
-  * Change categoria []
-  * Deletar categoria []
+  * List categoria [checkbox:unchecked]
+  * Add categoria [checkbox:unchecked]
+  * Show categoria [checkbox:unchecked]
+  * Change categoria [checkbox:unchecked]
+  * Deletar categoria [checkbox:unchecked]
 
 
 ## Cliente controller:
-  * List cliente []
-  * Add cliente []
-  * Show cliente []
-  * Change cliente []
-  * Deletar cliente []
+  * List cliente [checkbox:unchecked]
+  * Add cliente [checkbox:unchecked]
+  * Show cliente [checkbox:unchecked]
+  * Change cliente [checkbox:unchecked]
+  * Deletar cliente [checkbox:unchecked]
 
 
 ## Funcionario controller:
-  * List funcionario []
-  * Add funcionario []
-  * Show funcionario []
-  * Change funcionario []
-  * Deletar funcionario []
+  * List funcionario [checkbox:unchecked]
+  * Add funcionario [checkbox:unchecked]
+  * Show funcionario [checkbox:unchecked]
+  * Change funcionario [checkbox:unchecked]
+  * Deletar funcionario [checkbox:unchecked]
   
 
 ## Pedido controller:
-  * List pedido []
-  * Add pedido []
-  * Show pedido []
-  * Deletar pedido []
+  * List pedido [checkbox:unchecked]
+  * Add pedido [checkbox:unchecked]
+  * Show pedido [checkbox:unchecked]
+  * Deletar pedido [checkbox:unchecked]
   
 
 ## Produto controller:
-  * List produto []
-  * Add produto []
-  * Show produto []
-  * Change produto []
-  * Deletar produto []
-  * Show produto image []
-  * Add produto com foto []
+  * List produto [checkbox:unchecked]
+  * Add produto [checkbox:unchecked]
+  * Show produto [checkbox:unchecked]
+  * Change produto [checkbox:unchecked]
+  * Deletar produto [checkbox:unchecked]
+  * Show produto image [checkbox:unchecked]
+  * Add produto com foto [checkbox:unchecked]
