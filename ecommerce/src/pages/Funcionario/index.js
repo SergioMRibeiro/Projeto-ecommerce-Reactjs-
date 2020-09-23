@@ -5,7 +5,7 @@ import React from 'react';
 const Funcionario = () => {
 
     return (
-        <div ativo={false}>
+        <div>
             <h1>Funcionario</h1>
         </div>
     )

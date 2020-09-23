@@ -9,7 +9,7 @@ import Produto from '../pages/Produto';
 
 const Routes = () => (
 <Switch>
-    <Route path="/" component={() => <>Primeira Página</>} exact/>
+    <Route path="/" component={() => <>Página inicial</>} exact/>
     <Route path="/categoria" component={Categoria} />
     <Route path="/funcionarios" component={Funcionario} />
     <Route path="/cliente" component={Cliente} />

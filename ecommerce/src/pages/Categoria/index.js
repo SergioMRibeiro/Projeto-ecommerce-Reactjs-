@@ -5,9 +5,9 @@ import React from 'react';
 const Categoria = () => {
 
     return (
-        <div ativo={false}>
+        <div>
             <h1>Categoria</h1>
-            <p className="texto">ReactJS</p>
+
         </div>
     )
 }
