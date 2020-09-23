@@ -1,13 +1,15 @@
 import React from 'react';
+import api from '../../services/api';
 
 
 
 const Funcionario = () => {
 
     return (
-        <div>
+        <>
             <h1>Funcionario</h1>
-        </div>
+
+        </>
     )
 }
 

@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
 
 import Routes from './routes';
+import GlobalStyles from './styles/global';
 // import api from './services/api.js';
 
 function App() {
@@ -10,6 +11,8 @@ function App() {
             <BrowserRouter>
                 <Routes />
             </BrowserRouter> 
+            <GlobalStyles />
+
 
         </>
     );
