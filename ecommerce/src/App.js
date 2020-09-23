@@ -19,3 +19,11 @@ function App() {
 }
 
 export default App;
+
+
+// yarn create react-app ecommerce
+// yarn add react-router-dom
+// yarn add styled-components
+// yarn add axios
+// yarn start
+
