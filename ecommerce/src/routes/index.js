@@ -19,7 +19,7 @@ import Pedido from '../pages/Listas/Pedido';
 
 const Routes = () => (
 <Switch>
-    <Route path="/" component={() => <>Página inicial</>} exact/>
+    <Route path="/" component={Cliente} exact/>
 
     <Route path="/categoria" component={Categoria} exact/>
     <Route path="/cadastro/categoria" component={CadastroCategoria} exact/>
@@ -29,8 +29,6 @@ const Routes = () => (
 
     <Route path="/produto" component={Produto} exact/>
     <Route path="/cadastro/produto" component={CadastroProduto} exact/>
-
-    <Route path="/cliente" component={Cliente} exact/>
 
     <Route path="/pedido" component={Pedido} exact/>
     

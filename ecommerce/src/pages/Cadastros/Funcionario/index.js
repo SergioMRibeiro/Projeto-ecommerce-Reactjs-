@@ -1,8 +1,5 @@
 import React, {useState} from 'react';
 import api from '../../../services/api';
-
-
-
 const Funcionario = () => {
     const [nome, setNome] = useState('');
     const [cpf, setCpf] = useState('');
